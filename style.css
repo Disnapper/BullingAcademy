@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #730707;
+}
+.btn-large{
+  margin-top: 350px;
+}
+.swal-wide{
+width:850px !important;
+}
